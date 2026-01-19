@@ -1,56 +1,64 @@
-# Hi, I’m Kaushik Jayaprakash 👋  
+<h1 align="center">Hi, I'm Kaushik Jayaprakash 👋</h1>
 
-🚀 AI / ML Engineer | Data Engineer | Cloud & Distributed Systems  
-🎓 MS Information Systems @ Northeastern University (GPA 3.6)  
-📍 Boston, MA  
+<p align="center">
+  <b>AI / ML Engineer · Data Engineer · Cloud & Distributed Systems</b><br/>
+  MS Information Systems @ Northeastern University (GPA 3.6) · Boston, MA
+</p>
 
-I build **production-grade AI systems** that combine  
-**Machine Learning, Data Engineering, and Cloud Infrastructure** —  
-from multi-agent GenAI platforms to scalable data pipelines and explainable AI systems.
+<p align="center">
+  I build <b>production-grade AI systems</b> that combine<br/>
+  <b>Machine Learning, Data Engineering, and Cloud Infrastructure</b><br/>
+  — from multi-agent GenAI platforms to scalable, explainable AI pipelines.
+</p>
 
 ---
 
 ## 🔭 Currently Working On
 
 - 🧠 **Healthcare Digital Twin (AI/ML Intern @ Dox Health)**  
-  Building an explainable, guard-railed conversational AI that translates longitudinal health data  
-  (QHA, BP, FBG, BMI, RHR, sleep, steps, nutrition) into grounded insights.
+  Explainable, guard-railed conversational AI over longitudinal health data  
+  (QHA, BP, FBG, BMI, RHR, sleep, steps, nutrition)
 
 - 🤖 **Multi-Agent GenAI Systems**  
-  Designing LangChain / LangGraph based agents for reasoning across  
-  structured data (Snowflake) and unstructured data (RAG pipelines).
+  LangChain / LangGraph agents reasoning across structured (Snowflake)  
+  and unstructured data (RAG pipelines)
 
 - ☁️ **Scalable Data Engineering Pipelines**  
-  Optimizing ingestion, transformation, and analytics workflows using  
-  Spark, Kafka, Airflow, and cloud-native infrastructure.
+  Spark, Kafka, Airflow pipelines optimized for analytics & ML workloads
 
 ---
 
 ## 🧰 Tech Stack
 
-### Programming Languages
-Python · Java · JavaScript · SQL · C++ · Go · R  
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,sql,cpp,go,r)](https://skillicons.dev)
 
-### AI / Machine Learning
-PyTorch · TensorFlow · Scikit-learn · NLP  
-LangChain · LangGraph · LLMs · RAG · Vector Databases  
+### 🤖 AI / Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 
-### Data Engineering
-Apache Spark · Kafka · Airflow  
-Snowflake · Databricks · Redis  
-ETL Pipelines · Dimensional Data Models  
+![LangChain](https://img.shields.io/badge/LangChain-0B0B0B?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B0B0B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0B0B0B?style=for-the-badge)
 
-### Cloud & MLOps
-AWS · GCP · Azure  
-Docker · Kubernetes (EKS) · Terraform  
-CI/CD · GitHub Actions · Kubeflow  
+---
 
-### Backend & APIs
-FastAPI · Flask · Spring  
-RESTful APIs · GPU / TPU Workloads  
+### 🏗️ Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Data Visualization
-Tableau · Power BI · Matplotlib · Plotly · Dashboards  
+---
+
+### ☁️ Cloud & MLOps
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions)](https://skillicons.dev)
+
+---
+
+### 🔌 Backend & APIs
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,spring,react)](https://skillicons.dev)
 
 ---
 
@@ -59,11 +67,10 @@ Tableau · Power BI · Matplotlib · Plotly · Dashboards
 ### 🏫 AI-Powered College Admission Assistant
 🔗 **Repo:** AI Admission Assistant  
 
-- Designed and deployed a multi-agent GenAI system to recommend universities  
-  using structured data (Snowflake) and unstructured program PDFs (RAG).
-- Built **Snowflake Agent + Validator Agent** to cross-verify outputs,  
-  achieving 99% response accuracy and reducing latency by 38%.
-- Scaled the system to handle **1000+ concurrent requests** on GCP.
+- Multi-agent GenAI system for university recommendations  
+- Structured data (Snowflake) + unstructured PDFs (RAG)
+- Validator Agent cross-verifies outputs (99% accuracy)
+- Scales to **1000+ concurrent requests** on GCP
 
 **Tech:** LangChain · CrewAI · FastAPI · Streamlit · Snowflake · GCP  
 
@@ -72,11 +79,9 @@ Tableau · Power BI · Matplotlib · Plotly · Dashboards
 ### 🌍 Multi-Agent Disaster Intelligence Platform
 🔗 **Repo:** Disaster Intelligence  
 
-- Engineered an end-to-end GenAI platform integrating **7+ AI agents**  
-  for geospatial and disaster intelligence reasoning.
-- Achieved **90%+ retrieval accuracy** across 100+ PDFs using optimized  
-  vector search and prompt routing.
-- Improved ingestion speed by 45% using Spark, Snowflake, and CUDA profiling.
+- End-to-end GenAI platform with **7+ collaborating agents**
+- 90%+ retrieval accuracy across 100+ PDFs
+- Spark + Snowflake ingestion optimized with CUDA profiling
 
 **Tech:** LangChain · LlamaIndex · Pinecone · Spark · Snowflake  
 
@@ -85,31 +90,49 @@ Tableau · Power BI · Matplotlib · Plotly · Dashboards
 ### 🧬 Healthcare Digital Twin (Industry Project)
 🔒 *Private / Work Project*  
 
-- Built a conversational AI system that converts longitudinal biometric data  
-  into explainable, non-diagnostic insights.
-- Implemented strict **AI guardrails** to ensure responses are derived  
-  exclusively from validated user data (anti-hallucination architecture).
+- Conversational AI over longitudinal biometric data
+- Strict AI guardrails to prevent hallucinations
+- Explainable trend & baseline analysis
 
-**Tech:** HuggingFace LLMs · FastAPI · Python · AI Guardrails  
+**Tech:** HuggingFace LLMs · FastAPI · Python  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaushikNEU&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikNEU&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikNEU&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/KaushikNEU/KaushikNEU/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 💼 Experience Snapshot
 
 **AI / ML Engineer Intern — Dox Health (2026–Present)**  
-Healthcare AI · Digital Twin Systems · Explainable GenAI  
+Healthcare AI · Explainable GenAI · Digital Twin Systems  
 
 **Python Developer Intern — Pace Wisdom Solutions (2023–2024)**  
-ETL Automation · Data-Driven Applications · REST APIs  
+ETL Automation · Data-Driven Applications  
 
 **Software Developer — Krutin Outsourcing Partners (2022–2023)**  
-Backend Systems · ML-Driven Pricing Models · Data Pipelines  
+Backend Systems · ML-Driven Pricing Models  
 
 ---
 
 ## 📜 Certifications
 
-- AWS Certified AI Practitioner (2025)  
+- AWS Certified AI Practitioner  
 - Data Structures & Algorithms — Udemy  
 - Data Analytics Virtual Internship — Accenture  
 
@@ -125,19 +148,3 @@ Backend Systems · ML-Driven Pricing Models · Data Pipelines
 
 ⭐ If you’re interested in **AI systems, data engineering, or scalable ML platforms**,  
 feel free to explore my repositories or reach out.
-
-
-<!--
-**KaushikNEU/KaushikNEU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
